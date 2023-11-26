@@ -152,6 +152,7 @@ header .inner .season .menu-bar ul .item .item__content-box .drop-box:hover{
 /* nav start*/
 nav {
   background-color: #d7d7d7;
+  height: 46px;
 }
 nav .page-nav {
   background-color: #D7D7D7;
