@@ -332,6 +332,7 @@ main .container .content .btnallcontent .menu-Product {
   justify-content: center;
   grid-template-rows: repeat(2, 500px);
   grid-template-columns: repeat(4, 1fr);
+  list-style: none;
 }
 main .container .content .btnallcontent .menu-Product li a {
   display: flex;
