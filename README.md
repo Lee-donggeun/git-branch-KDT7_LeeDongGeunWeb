@@ -43,7 +43,8 @@
     교촌치킨 레드시리즈 페이지 https://www.kyochon.com/menu/chicken.asp?code=2
 
 - [O] 과정에서 사용한 프로젝트 폴더/파일이 모두 포함돼야 합니다, 일부 파일만 제출하지 마세요! 
-- [ ???? ] 실제 서비스로 배포하고 접근 가능한 링크를 추가해야 합니다.
+- [O] 실제 서비스로 배포하고 접근 가능한 링크를 추가해야 합니다.
+   https://lee-donggeun.github.io/git-branch-KDT7_LeeDongGeunWeb/
 
 ## 선택 요구사항
 
